@@ -104,3 +104,6 @@ npx prisma db push
 
 # Inicia a aplicação
 na pasta do projeto => npm run start:dev
+
+# Firebase Admin
+npm install --save firebase-admin
